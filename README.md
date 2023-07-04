@@ -1,6 +1,6 @@
 ## Bio - Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-My name is Hugo José, I'm a Brazilian BackEnd Developer, I'm currently studying the seventh period of the Information Systems course. I currently work as a backend intern.
+My name is Hugo José, I'm a Brazilian BackEnd Developer, I'm currently studying the eighth period of the Information Systems course. I currently work as a backend intern.
 
 ## 📝 Detailed information
 
