@@ -1,13 +1,13 @@
 ## Bio - Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-My name is Hugo José, I'm a Brazilian BackEnd Developer, I'm currently studying the eighth period of the Information Systems course. I currently work as a backend intern.
+My name is Hugo José, I'm a Brazilian Software Developer, I'm currently studying the eighth period of the Information Systems course. I currently work as a backend intern.
 
 ## 📝 Detailed information
 
-* Name: Hugo José Ferreira Moreira
-* Age: 22
-* Living in: Mateus Leme, Minas Gerais, Brazil.
-* University: Pontifícia Universidade Católica de Minas Gerais PUC MG,
+* Name: Hugo José Ferreira Moreira.
+* Age: 22.
+* Living in: Betim, Minas Gerais, Brazil.
+* University: Pontifícia Universidade Católica de Minas Gerais PUC MG.
 
 ## 🌐 My social links
 
@@ -20,7 +20,8 @@ My name is Hugo José, I'm a Brazilian BackEnd Developer, I'm currently studying
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-20232A?logo=go&logoColor=61DAFB&style=for-the-badge)
-
+![HTML](https://img.shields.io/badge/html-%23181717.svg?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/css-%23316192.svg?style=for-the-badge&logo=css&logoColor=white)
 
 ## 🔧 Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
