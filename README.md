@@ -20,6 +20,7 @@ My name is Hugo José, I'm a Brazilian Software Developer, I'm currently studyin
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-20232A?logo=go&logoColor=61DAFB&style=for-the-badge)
+![Javascript](https://img.shields.io/badge/javascript-20232A?logo=javascript&logoColor=yellow&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/html-%23181717.svg?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/css-%23316192.svg?style=for-the-badge&logo=css&logoColor=white)
 
