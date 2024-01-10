@@ -6,7 +6,7 @@ My name is Hugo José, I'm a Brazilian Software Developer, I'm currently studyin
 
 * Name: Hugo José Ferreira Moreira.
 * Age: 22.
-* Living in: Betim, Minas Gerais, Brazil.
+* Living in: Mateus Leme, Minas Gerais, Brazil.
 * University: Pontifícia Universidade Católica de Minas Gerais PUC MG.
 
 ## 🌐 My social links
