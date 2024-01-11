@@ -1,13 +1,13 @@
 ## Bio - Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-My name is Hugo José, I'm a Brazilian Software Developer, I'm currently studying the eighth period of the Information Systems course. I currently work as a backend intern.
+My name is Hugo José, i'm a Brazilian Software Developer, with proficiency in backend development and enthusiasm for the frontend, I possess strong communication skills and a notable ability to grasp new concepts. I have a special passion for developing efficient APIs, relational databases, and cloud computing.
 
 ## 📝 Detailed information
 
 * Name: Hugo José Ferreira Moreira.
 * Age: 22.
 * Living in: Mateus Leme, Minas Gerais, Brazil.
-* University: Pontifícia Universidade Católica de Minas Gerais PUC MG.
+* Education: Bachelor's degree in Information Systems - Pontifícia Universidade Católica de Minas Gerais PUC MG.
 
 ## 🌐 My social links
 
