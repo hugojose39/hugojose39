@@ -21,7 +21,7 @@ My name is Hugo José, I'm a Brazilian Software Developer, I'm currently studyin
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-20232A?logo=go&logoColor=61DAFB&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/javascript-20232A?logo=javascript&logoColor=yellow&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/node.js-20232A?logo=node.js&logoColor=yellow&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/node.js-20232A?logo=node.js&logoColor=green&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/html-%23181717.svg?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/css-%23316192.svg?style=for-the-badge&logo=css&logoColor=white)
 
